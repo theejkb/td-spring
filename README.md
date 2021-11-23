@@ -1,5 +1,10 @@
 # td-spring
 
+## Connect to your database
+
+Create a database and change application.properties file in order to link your database.
+
+
 Spring CRUD 
 
 ## CRUD USER
